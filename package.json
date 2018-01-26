@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-audiorequest",
+  "version": "0.0.1",
+  "description": "Cordova plugin to request audio focus on Android",
+  "cordova": {
+    "id": "com.bluekey630.cordova.plugins.audiofocus",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluekey630/cordova-plugin-audiorequest.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "bluekey630",
+  "license": "ISC"
+}
