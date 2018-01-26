@@ -6,7 +6,7 @@ AudioFocus is a Cordova plugin for Android platform that allows requesting of au
 Using Cordova/Ionic
 
 ```sh
-$ cordova plugin add https://github.com/Bustanity/cordova-plugin-audiofocus.git
+$ cordova plugin add https://github.com/bluekey630/cordova-plugin-audiorequest.git
 ```
 
 ### Usage
